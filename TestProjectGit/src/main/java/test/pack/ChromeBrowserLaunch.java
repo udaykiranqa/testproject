@@ -16,6 +16,7 @@ public class ChromeBrowserLaunch {
 	 //wait
 	 Thread.sleep(3000);
 	 //close browser
+	 //Execution is complete here ..closing browser
 	 driver.close();
 }
 }
